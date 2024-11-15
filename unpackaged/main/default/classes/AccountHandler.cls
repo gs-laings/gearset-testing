@@ -4,7 +4,7 @@ public class AccountHandler {
         try {
         	insert acct;
         } catch (DmlException e ){
-            return null;
+            return null
         }
         return acct;     
     }
