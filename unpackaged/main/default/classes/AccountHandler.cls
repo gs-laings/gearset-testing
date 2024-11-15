@@ -5,7 +5,6 @@ public class AccountHandler {
         	insert acct;
         } catch (DmlException e ){
             return null
-        }
-        return acct;     
+       
     }
 }
