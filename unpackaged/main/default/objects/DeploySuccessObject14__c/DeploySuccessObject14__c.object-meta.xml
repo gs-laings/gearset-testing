@@ -153,12 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>AnotherValue</label>
+    <label>DeploySuccessObject14</label>
     <nameField>
-        <label>ConflictingObject_1 Name</label>
+        <label>DeploySuccessObject14 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>ConflictingObject_20250516</pluralLabel>
+    <pluralLabel>DeploySuccessObject14</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
