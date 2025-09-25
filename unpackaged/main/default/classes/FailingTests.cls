@@ -2,9 +2,9 @@
 public class FailingTests {
 
     @isTest static void test1() {
+        wrong
     
-    
-         System.assertEquals(2, 1);
+         System.assertEquals(3, 1);
          
     }
 }
