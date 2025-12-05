@@ -143,7 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>From Dev1</description>
+    <description>From Dev3</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -156,7 +156,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>20251205_Conflicting1</label>
     <nameField>
-        <label>20251205_Conflicting1 Name</label>
+        <label>20251205_Conflicting Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>20251205_Conflicting1</pluralLabel>
