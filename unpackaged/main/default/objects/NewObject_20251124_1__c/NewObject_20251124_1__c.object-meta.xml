@@ -143,7 +143,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Some description from dev3</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -154,12 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>NewObject_20251205_1</label>
+    <label>NewObject_20251124_1</label>
     <nameField>
-        <label>NewObject_20251205_1 Name</label>
+        <label>NewObject_2025 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>NewObject_20251205_1</pluralLabel>
+    <pluralLabel>NewObject_20251124_1</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
